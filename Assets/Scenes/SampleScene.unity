@@ -536,7 +536,7 @@ GameObject:
   - component: {fileID: 826547525}
   - component: {fileID: 826547526}
   m_Layer: 0
-  m_Name: PacManWalkRight
+  m_Name: PacMan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
