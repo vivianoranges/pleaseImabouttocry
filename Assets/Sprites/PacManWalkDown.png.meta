@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -105,7 +105,133 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PacManWalkDown_0
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1374
+        width: 484
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75557152ef4c6d04bad101abd99d6d24
+      internalID: -1912470929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacManWalkDown_1
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1374
+        width: 483
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366bf7885e36fc243b27297de588dfef
+      internalID: 2118299243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacManWalkDown_2
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1374
+        width: 483
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f56173ed96c248913de37edf88e11
+      internalID: 983498497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacManWalkDown_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 350
+        width: 484
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4773b1b0e10064cae6f3fbd6f49bad
+      internalID: -1970031376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacManWalkDown_4
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 350
+        width: 483
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa97fd2b068d98442bad3f723285583f
+      internalID: -866325838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacManWalkDown_5
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 350
+        width: 483
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169983a9ff35c4246811f121936abd10
+      internalID: 1738255045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -116,7 +242,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PacManWalkDown_0: -1912470929
+      PacManWalkDown_1: 2118299243
+      PacManWalkDown_2: 983498497
+      PacManWalkDown_3: -1970031376
+      PacManWalkDown_4: -866325838
+      PacManWalkDown_5: 1738255045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
